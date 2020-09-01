@@ -1,0 +1,166 @@
+--=( WARNINGS )=--
+
+Result Report:
+
+	EvaluationException: Undefined condition of "If" at line 134 in Module uml2roo for block if (t.name.=('UnlimitedNatural')). Last recorded value of self was null.
+	at uml2roo.typeKind(Type)(uml2roo.mtl:134)
+	at uml2roo.typeKind(Type)(uml2roo.mtl:133)
+	at uml2roo.gen(Property)(uml2roo.mtl:0)
+	at uml2roo.gen(Property)(uml2roo.mtl:89)
+	at uml2roo.gen(Class)(uml2roo.mtl:0)
+	at uml2roo.gen(Class)(uml2roo.mtl:0)
+	at uml2roo.gen(Class)(uml2roo.mtl:79)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:0)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:0)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:42)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:41)
+	at uml2roo.generate(Package)(uml2roo.mtl:0)
+	at uml2roo.generate(Package)(uml2roo.mtl:18)
+
+
+	EvaluationException: Undefined condition of "If" at line 153 in Module uml2roo for block if (t.name.=('String')). Last recorded value of self was null.
+	at uml2roo.fieldType(Type)(uml2roo.mtl:153)
+	at uml2roo.fieldType(Type)(uml2roo.mtl:152)
+	at uml2roo.gen(Property)(uml2roo.mtl:0)
+	at uml2roo.gen(Property)(uml2roo.mtl:89)
+	at uml2roo.gen(Class)(uml2roo.mtl:0)
+	at uml2roo.gen(Class)(uml2roo.mtl:0)
+	at uml2roo.gen(Class)(uml2roo.mtl:79)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:0)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:0)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:42)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:41)
+	at uml2roo.generate(Package)(uml2roo.mtl:0)
+	at uml2roo.generate(Package)(uml2roo.mtl:18)
+
+
+	EvaluationException: Undefined condition of "If" at line 134 in Module uml2roo for block if (t.name.=('UnlimitedNatural')). Last recorded value of self was null.
+	at uml2roo.typeKind(Type)(uml2roo.mtl:134)
+	at uml2roo.typeKind(Type)(uml2roo.mtl:133)
+	at uml2roo.gen(Property)(uml2roo.mtl:0)
+	at uml2roo.gen(Property)(uml2roo.mtl:89)
+	at uml2roo.gen(Class)(uml2roo.mtl:0)
+	at uml2roo.gen(Class)(uml2roo.mtl:0)
+	at uml2roo.gen(Class)(uml2roo.mtl:79)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:0)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:0)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:42)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:41)
+	at uml2roo.generate(Package)(uml2roo.mtl:0)
+	at uml2roo.generate(Package)(uml2roo.mtl:18)
+
+
+	EvaluationException: Undefined condition of "If" at line 153 in Module uml2roo for block if (t.name.=('String')). Last recorded value of self was null.
+	at uml2roo.fieldType(Type)(uml2roo.mtl:153)
+	at uml2roo.fieldType(Type)(uml2roo.mtl:152)
+	at uml2roo.gen(Property)(uml2roo.mtl:0)
+	at uml2roo.gen(Property)(uml2roo.mtl:89)
+	at uml2roo.gen(Class)(uml2roo.mtl:0)
+	at uml2roo.gen(Class)(uml2roo.mtl:0)
+	at uml2roo.gen(Class)(uml2roo.mtl:79)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:0)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:0)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:42)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:41)
+	at uml2roo.generate(Package)(uml2roo.mtl:0)
+	at uml2roo.generate(Package)(uml2roo.mtl:18)
+
+
+	EvaluationException: Undefined condition of "If" at line 134 in Module uml2roo for block if (t.name.=('UnlimitedNatural')). Last recorded value of self was null.
+	at uml2roo.typeKind(Type)(uml2roo.mtl:134)
+	at uml2roo.typeKind(Type)(uml2roo.mtl:133)
+	at uml2roo.gen(Property)(uml2roo.mtl:0)
+	at uml2roo.gen(Property)(uml2roo.mtl:89)
+	at uml2roo.gen(Class)(uml2roo.mtl:0)
+	at uml2roo.gen(Class)(uml2roo.mtl:0)
+	at uml2roo.gen(Class)(uml2roo.mtl:79)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:0)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:0)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:42)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:41)
+	at uml2roo.generate(Package)(uml2roo.mtl:0)
+	at uml2roo.generate(Package)(uml2roo.mtl:18)
+
+
+	EvaluationException: Undefined condition of "If" at line 153 in Module uml2roo for block if (t.name.=('String')). Last recorded value of self was null.
+	at uml2roo.fieldType(Type)(uml2roo.mtl:153)
+	at uml2roo.fieldType(Type)(uml2roo.mtl:152)
+	at uml2roo.gen(Property)(uml2roo.mtl:0)
+	at uml2roo.gen(Property)(uml2roo.mtl:89)
+	at uml2roo.gen(Class)(uml2roo.mtl:0)
+	at uml2roo.gen(Class)(uml2roo.mtl:0)
+	at uml2roo.gen(Class)(uml2roo.mtl:79)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:0)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:0)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:42)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:41)
+	at uml2roo.generate(Package)(uml2roo.mtl:0)
+	at uml2roo.generate(Package)(uml2roo.mtl:18)
+
+
+	EvaluationException: Undefined condition of "If" at line 134 in Module uml2roo for block if (t.name.=('UnlimitedNatural')). Last recorded value of self was null.
+	at uml2roo.typeKind(Type)(uml2roo.mtl:134)
+	at uml2roo.typeKind(Type)(uml2roo.mtl:133)
+	at uml2roo.gen(Property)(uml2roo.mtl:0)
+	at uml2roo.gen(Property)(uml2roo.mtl:89)
+	at uml2roo.gen(Class)(uml2roo.mtl:0)
+	at uml2roo.gen(Class)(uml2roo.mtl:0)
+	at uml2roo.gen(Class)(uml2roo.mtl:79)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:0)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:0)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:42)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:41)
+	at uml2roo.generate(Package)(uml2roo.mtl:0)
+	at uml2roo.generate(Package)(uml2roo.mtl:18)
+
+
+	EvaluationException: Undefined condition of "If" at line 153 in Module uml2roo for block if (t.name.=('String')). Last recorded value of self was null.
+	at uml2roo.fieldType(Type)(uml2roo.mtl:153)
+	at uml2roo.fieldType(Type)(uml2roo.mtl:152)
+	at uml2roo.gen(Property)(uml2roo.mtl:0)
+	at uml2roo.gen(Property)(uml2roo.mtl:89)
+	at uml2roo.gen(Class)(uml2roo.mtl:0)
+	at uml2roo.gen(Class)(uml2roo.mtl:0)
+	at uml2roo.gen(Class)(uml2roo.mtl:79)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:0)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:0)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:42)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:41)
+	at uml2roo.generate(Package)(uml2roo.mtl:0)
+	at uml2roo.generate(Package)(uml2roo.mtl:18)
+
+
+	EvaluationException: Undefined condition of "If" at line 134 in Module uml2roo for block if (t.name.=('UnlimitedNatural')). Last recorded value of self was null.
+	at uml2roo.typeKind(Type)(uml2roo.mtl:134)
+	at uml2roo.typeKind(Type)(uml2roo.mtl:133)
+	at uml2roo.gen(Property)(uml2roo.mtl:0)
+	at uml2roo.gen(Property)(uml2roo.mtl:89)
+	at uml2roo.gen(Class)(uml2roo.mtl:0)
+	at uml2roo.gen(Class)(uml2roo.mtl:0)
+	at uml2roo.gen(Class)(uml2roo.mtl:79)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:0)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:0)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:42)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:41)
+	at uml2roo.generate(Package)(uml2roo.mtl:0)
+	at uml2roo.generate(Package)(uml2roo.mtl:18)
+
+
+	EvaluationException: Undefined condition of "If" at line 153 in Module uml2roo for block if (t.name.=('String')). Last recorded value of self was null.
+	at uml2roo.fieldType(Type)(uml2roo.mtl:153)
+	at uml2roo.fieldType(Type)(uml2roo.mtl:152)
+	at uml2roo.gen(Property)(uml2roo.mtl:0)
+	at uml2roo.gen(Property)(uml2roo.mtl:89)
+	at uml2roo.gen(Class)(uml2roo.mtl:0)
+	at uml2roo.gen(Class)(uml2roo.mtl:0)
+	at uml2roo.gen(Class)(uml2roo.mtl:79)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:0)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:0)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:42)
+	at uml2roo.generateEntities(Package)(uml2roo.mtl:41)
+	at uml2roo.generate(Package)(uml2roo.mtl:0)
+	at uml2roo.generate(Package)(uml2roo.mtl:18)
+
+
+
+

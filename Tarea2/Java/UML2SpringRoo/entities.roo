@@ -1,0 +1,73 @@
+
+# Entities and attributes
+
+entity jpa --class ~.domain.Persona  --sequenceName PERSONA_SEQ
+	field string --fieldName Apellidos --notNull
+	field string --fieldName Nombres --notNull
+	field string --fieldName Fecjha de nacimiento --notNull
+	field string --fieldName Genero --notNull
+	field number --fieldName Telefono --type java.lang.Integer --primitive --notNull
+	field string --fieldName Direccion --notNull
+	field string --fieldName Estado --notNull
+	field string --fieldName FechaEstado --notNull
+	
+entity jpa --class ~.domain.Carta  --sequenceName CARTA_SEQ
+	field string --fieldName Guia de correspondencia --notNull
+	field string --fieldName Fecha enviado --notNull
+	field string --fieldName Fecha recibido --notNull
+	field string --fieldName Remitente --notNull
+	field  --fieldName Receptor --notNull
+	
+entity jpa --class ~.domain.Administrador  --sequenceName ADMINISTRADOR_SEQ
+	field string --fieldName Nombre --notNull
+	field  --fieldName Apellido --notNull
+	field  --fieldName NombreClub --notNull
+	
+entity jpa --class ~.domain.Libro Cartas  --sequenceName LIBRO CARTAS_SEQ
+	field number --fieldName No. Carta --type java.lang.Integer --primitive --notNull
+	field string --fieldName Fecha registro --notNull
+	
+entity jpa --class ~.domain.Secretaria  --sequenceName SECRETARIA_SEQ
+	field  --fieldName Nombre --notNull
+	
+entity jpa --class ~.domain.Registro de miembros  --sequenceName REGISTRO DE MIEMBROS_SEQ
+	field number --fieldName Consecutivo --type java.lang.Integer --primitive --notNull
+	field string --fieldName Fecha inicio --notNull
+	field string --fieldName Apellidos --notNull
+	field string --fieldName Nombres --notNull
+	field string --fieldName Tarifa --notNull
+	
+entity jpa --class ~.domain.Factura  --sequenceName FACTURA_SEQ
+	field string --fieldName Nombres --notNull
+	field string --fieldName Apellidos --notNull
+	field number --fieldName Tarifa --type java.lang.Integer --primitive --notNull
+	field string --fieldName Banco --notNull
+	
+entity jpa --class ~.domain.Transferencia  --sequenceName TRANSFERENCIA_SEQ
+	field  --fieldName IdTransferencia --notNull
+	field string --fieldName Nombres --notNull
+	field string --fieldName Apellidos --notNull
+	field number --fieldName Monto Pagar --type java.lang.Integer --primitive --notNull
+	field boolean --fieldName EstadoPago --primitive --notNull
+	
+entity jpa --class ~.domain.Tarjeta de Membresia  --sequenceName TARJETA DE MEMBRESIA_SEQ
+	field number --fieldName No. Membresia --type java.lang.Integer --primitive --notNull
+	field string --fieldName Fecha inicio --notNull
+	field string --fieldName Nombres --notNull
+	field string --fieldName Apellidos --notNull
+	field string --fieldName Fecha nacimiento --notNull
+	field string --fieldName Direccion --notNull
+	
+
+
+# Start of user code for entities and atributes
+
+# End of user code
+
+# References (relations between entities)
+
+
+# Start of user code for references
+
+# End of user code for references
+
